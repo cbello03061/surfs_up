@@ -27,8 +27,6 @@ The months analyzed show us that June, due to the number of hot days, will be a 
 ![Junevsdec](https://user-images.githubusercontent.com/96089967/156889029-6cb523a7-5e20-4e03-aa30-9740f72f9366.png)
 
 
-![ColdJun](https://user-images.githubusercontent.com/96089967/156889060-7e10f14f-f091-4d78-b994-7d73927b1fb5.png)
 
-![Colddec](https://user-images.githubusercontent.com/96089967/156889070-431726c1-ef1a-4673-a46a-3e7a1f36d6dc.png)
 
 
